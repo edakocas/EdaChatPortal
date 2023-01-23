@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "edashoppingcenter": {
+      "hosting": {
+        "angular-chat-app": [
+          "edashoppingcenter"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "edashoppingcenter"
+  }
+}
